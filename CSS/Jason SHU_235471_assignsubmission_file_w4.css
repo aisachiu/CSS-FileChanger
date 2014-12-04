@@ -1,0 +1,21 @@
+
+
+#eaglelogo {
+	position:right 50px;
+	}
+	
+h1 {
+	color:blue;
+	
+}
+
+.eslrTitle {
+	color: green;
+	font-weight:bold;
+	}
+	
+a:hover {
+	background-color: purple;
+	color:black;
+	font-weight:bold;
+	}

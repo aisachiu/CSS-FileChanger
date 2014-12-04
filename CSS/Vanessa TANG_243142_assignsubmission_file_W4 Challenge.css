@@ -1,0 +1,31 @@
+@charset "UTF-8";
+/* Sample CSS Document */
+
+#eagleLogo {
+	float: right;
+}
+
+h1 {
+	color: green;
+}
+
+
+a:link {
+	color: #66CCFF;
+	font-size: 200%;
+}
+a:hover {
+	color: #660099;
+	background-color: #FFCCFF;
+	font-size: 200%;
+}
+a:visited {
+	color: #CCOOOO;
+	font-size: 200%;
+}
+
+.eslrTitle {
+	color: #3399FF;	
+	font-weight: bold;
+	font-family: tahoma;
+}

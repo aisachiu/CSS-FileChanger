@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/* Sample CSS Document */
+
+body {
+    background-color:#9900FF;
+}
+#eagleLogo {
+	float: right;
+}
+h1 {
+    color:red;          
+}
+h2 {
+    color:white;
+    font-family:cursive;
+}
+.eslr title {
+  font-weight: bold;
+}
+a:hover {
+    font-weight: bold;
+    border: 1px;
+}
+a {
+    color:black
+}

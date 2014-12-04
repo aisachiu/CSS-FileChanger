@@ -1,0 +1,20 @@
+eslrTitle class {
+    text-decoration:underline; text-emphasis:bold; text-emphasis-color:#610B0B;
+}
+
+h1 {
+    color:#01A9DB;
+}
+
+h2 {
+    color:#8A0829;
+}
+
+a:hover {
+    color:#FFFFFF;
+    background-color:#000000;
+}
+
+#eagleLogo {
+    float:right;
+}

@@ -1,0 +1,25 @@
+@charset "UTF-8";
+/* Sample CSS Document */
+
+<<<<<<< HEAD
+#eagleLogo {float:right;}
+
+Body {background-color: Mistyrose;}
+
+h1 {
+color: blue;
+}
+h2 {
+    color: white; background-color: steelblue;
+}
+span {
+    color: crimson;
+}
+p {
+    color: navy;
+}
+a:hover{
+  color: red;
+  font-size: 15pt;
+
+}

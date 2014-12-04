@@ -1,0 +1,61 @@
+@charset "UTF-8";
+/* Sample CSS Document */
+.eslrTitle {
+	color: #c0071e;
+	font-weight: bold;
+	font-family: "Comic Sans MS";
+}
+li {
+	color: #0000CD;
+}
+#eagleLogo {
+float: right;
+border-bottom-style:solid;
+border-bottom-color:black;
+border-left: solid;
+border-left-color:black;
+border-right-style: solid;
+border-right-color:black;
+border-top-style: solid;
+border-top-color:black;
+}
+Body {
+	background-color: Mistyrose;
+}
+
+h1 {
+	color: blue;
+}
+h2 {
+    color: white;
+		background-color: steelblue;
+}
+span {
+    color: crimson;
+}
+p {
+    color: navy;
+}
+#eslrMenu {
+    color: crimson;
+}
+#topMenu {
+    color: blue;
+======
+}
+
+a:hover {
+	color: blue;
+	background-color: #def;
+>>>>>>> Srijith-Kannan-CTD-1
+}
+#eagleBottom {
+    border-bottom-style:solid;
+		border-bottom-color:black;
+		border-left: solid;
+		border-left-color:black;
+		border-right-style: solid;
+		border-right-color:black;
+		border-top-style: solid;
+		border-top-color:black;
+}

@@ -1,0 +1,40 @@
+@charset "UTF-8";
+/* Sample CSS Document */
+
+#eagleLogo {
+        
+}
+
+h1 {
+    color:red;
+}
+
+h2{
+    color:blue;
+}
+
+#eagleLogo{
+        float:right;
+}
+
+.eslrTitle{
+            font-family:fantasy;
+            text-transform:uppercase;
+            font-size:20px;
+            font-weight:bold;
+}
+
+a:hover{
+  
+    color:green;
+    background-color:red;
+}
+
+a:link{
+    color:blue
+}
+a:visited{
+ 
+    color:purple;
+    background-color:black;
+}
